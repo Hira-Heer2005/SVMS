@@ -20,7 +20,6 @@ function App() {
       <Solution />
       <Features />
       <ValueFeatures />
-      <TargetMarket />
       <Pricing />
       <Closing />
       <Footer />
