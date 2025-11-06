@@ -22,8 +22,6 @@ function App() {
       <ValueFeatures />
       <TargetMarket />
       <Pricing />
-      <Strategy />
-      <Revenue />
       <Closing />
       <Footer />
     </div>
